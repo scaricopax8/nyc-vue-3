@@ -1,4 +1,4 @@
-# nyc-example
+# nyc-vue-3
 
 ## To replicate NYC failure to instrument 
 ```
