@@ -1,24 +1,11 @@
 # nyc-example
 
-## Project setup
+## To replicate NYC failure to instrument 
 ```
 npm install
+npm run instrument
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+*Notice that App.vue in the instrumented folder is not instrumented*
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+i.e. looks no different than it's `src` counterpart.
